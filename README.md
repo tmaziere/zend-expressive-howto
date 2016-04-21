@@ -1,3 +1,3 @@
 # zend-expressive-howto
 
-Rendez-vous sur le [Wiki](URL_to_wiki)
+Rendez-vous sur le [Wiki](https://github.com/tmaziere/zend-expressive-howto/wiki)
